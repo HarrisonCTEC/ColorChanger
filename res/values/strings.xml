@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColorChanger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="harrison">Harrison</string>
+    <string name="sillyString">not from a can</string>
+
+</resources>
